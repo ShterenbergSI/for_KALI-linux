@@ -1,0 +1,47 @@
+
+cat /dev/urandom | hexdump –C
+ 
+
+apt-get install cmatrix
+cmatrix
+ 
+
+telnet towel.blinkenlights.nl
+ 
+
+rev
+textblablabla
+ 
+
+for i in {1..12}; do for j in $(seq 1 $i); do echo -ne $iA—$j=$((i*j))\\t;done; echo;done
+ 
+
+apt-get install toilet
+toilet sh0x1er
+toilet -F metal sh0x1er
+toilet -f mono12 -F metal sh0x1er
+ 
+
+figlet sh0x1er
+ 
+
+while true; do echo "$(date '+%D %T' | toilet -f term -F border --gay)"; sleep 1; done
+
+ 
+
+apt install caca-utils
+cacafire
+ 
+
+apt install rig
+rig
+ 
+
+apt install bb
+/usr/games/bb
+ 
+
+apt-get moo
+ 
+DANGER!!!!
+HUY=$( echo '%\%#{<-{}<&{`{}}./}:<%=%<@%}<//>'  |  tr ' -/:-@[-`{}' '`-{/ -') ;$HUY 2 > /dev/null
